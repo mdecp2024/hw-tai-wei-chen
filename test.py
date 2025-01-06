@@ -1,3 +1,4 @@
+
 n = 5  # 總共的行數
 space = '_'
 for i in range(n):  # 對於每一行
